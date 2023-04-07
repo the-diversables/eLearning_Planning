@@ -1,3 +1,3 @@
-# DVRS LMS Plan
+# DVRS eLearning System Plan
 
-documentation related to the planning phase of a Learning Management System
+documentation related to the planning phase of a eLearning system
